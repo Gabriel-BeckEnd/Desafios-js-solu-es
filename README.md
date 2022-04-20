@@ -1,4 +1,4 @@
-# Desafios-js-solu-es
+# Desafios-js-soluções
 
 /*
 
